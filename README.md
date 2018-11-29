@@ -7,7 +7,7 @@ We analyse Medical images which are in this case human CT Scans of hand, chest o
 We look at chest and arriving at more contrast images. 
 ![](plots/chest.png)
 
-Some hand xray images. 
+and also some hand xray images. 
 
 ![](plots/hand.png)
 
@@ -18,4 +18,8 @@ This analysis series is divided as follows,
 
 1. Exploring through images and plotting. Stacking images into a 3D volume. [Notebook](/Image_Exploration.ipynb)
 
-2. Applying Masks and filters to an Image. [Notebook](/Masking_and_filtering.ipyng)
+2. Applying Masks and filters to an Image. [Notebook](/Masking_and_filtering.ipyng). Here we also look at detecting edges in a Image and applying smoothing techniques. 
+
+![](plots/edge.png)
+
+
