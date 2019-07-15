@@ -1,8 +1,6 @@
 # About this Repo.
 
-In this series we look at some fundamentals of Medical Image analysis using Python libraries like Scipy-image and visualize using MatplotLib. 
-
-We analyse Medical images which are in this case human CT Scans of hand, chest or feet. 
+In this series we look at some fundamentals of Medical Image analysis using Python libraries like Scipy-image and visualize using MatplotLib. We analyse Medical images which are in this case human CT Scans of hand, chest or feet. These are some quick tricks to work around medical images which i hope will help in larger Medical Image processing and Data science classification and detection projects.
 
 We look at chest and arriving at more contrast images. 
 ![](plots/chest.png)
